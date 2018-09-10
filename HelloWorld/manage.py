@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#一个实用的命令行工具，可让你以各种方式与该 Django 项目进行交互
 import os
 import sys
 
